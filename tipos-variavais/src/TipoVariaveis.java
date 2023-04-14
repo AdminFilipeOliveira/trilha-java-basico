@@ -3,9 +3,8 @@
 
 public class TipoVariaveis {
     public static void main(String[] args) throws Exception {
-        
-
-        double salarioMinimo = 2500.33;
+        double salarioMinimo = 2500;
+       
         byte idade = 123;
         short ano = 2023;
         int cep = 12345678;
