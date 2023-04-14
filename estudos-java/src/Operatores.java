@@ -38,7 +38,7 @@ public class Operatores {
         System.out.println(nomeCompleto);
     }
     public static String nomeCompletoString (String primeroNome, String segundoNome){
-        return primeroNome.concat(" ").concat(segundoNome) + ".";
+        return "NOME - " + primeroNome.concat(" ").concat(segundoNome) + ".";
     }
   
 
