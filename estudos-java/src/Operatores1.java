@@ -5,9 +5,9 @@ public class Operatores1 {
         number = number + 1;
         number++;
         System.out.println(number);
-        System.out.println(number++); // Só incremeta após do print
+        System.out.println(number++); // Só incremeta após do print!
         System.out.println(number);
-        System.out.println(++number); // Incrementa na Hora
+        System.out.println(++number); // Incrementa na hora!
         System.out.println(number--);
         System.out.println(number);
 
