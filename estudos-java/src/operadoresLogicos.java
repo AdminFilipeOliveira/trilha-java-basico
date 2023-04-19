@@ -4,7 +4,7 @@ public class operadoresLogicos {
         boolean condiçao2 = true;
 
         if(condiçao1 && (7 < 4)){
-            System.out.println("as duas condições são verdadeiras");
+            System.out.println("As duas condições são verdadeiras");
         }
         if(condiçao1 || condiçao2){
             System.out.println("Uma das duas condições é verdadeira");

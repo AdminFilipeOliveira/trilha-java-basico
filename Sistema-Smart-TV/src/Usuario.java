@@ -1,6 +1,6 @@
 public class Usuario {
     public static void main(String[] args) throws Exception {
-        SmartTV smartTv = new SmartTV();
+        SmartTv smartTv = new SmartTv();
         System.out.println();
 
         smartTv.aumentarVolume();
