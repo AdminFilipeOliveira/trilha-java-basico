@@ -2,7 +2,7 @@ import java.sql.Date;
 
 public class Operatores {
     public static void main(String[] args) {
-        boolean doadorOrgao = false;
+        
         System.out.println();
         
         Date dataNascimento = new Date(0);
